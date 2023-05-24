@@ -1,15 +1,3 @@
-#=======================================================================================================
-
-Two Refrences:
-
-AWS CodeDeploy Tutorial | AWS CodePipeline | Real World Project
-https://youtu.be/-OsKxWO4-Fk
-
-https://blog.devgenius.io/deploy-a-reactjs-application-to-aws-ec2-instance-using-aws-codepipeline-3df5e4157028
-
-
-#=======================================================================================================
-
 1. Create IAM Role for EC2 and AWS CodeDeploy
 
 EC2RoleForS3
