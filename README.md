@@ -20,15 +20,7 @@ sudo ./install auto
 Step 1: CodePipeline
 Step 2: Code Source (CodeCommit or Github)
 Step 3: Skip Build(Feature)
-Step 4: Choose Code Depoloy
-
-
-p
-
-
-:W
-
-#=======================================================================================================
+Step 4: Choose Code Deploy
 
 Appspec.yml file structure:
 
@@ -83,5 +75,5 @@ cd /home/ec2-user/server
 sudo pm2 delete Frontend
 sudo pm2 start server.js --name Frontend
 
-#=======================================================================================================
+
 
